@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exploring ...
 - 📫 How to reach me imronkhan18@gmail.com...
 
-[![GitHub Streak](https://streak-stats.demolab.com/?userimronkhan&theme=highcontrast)](https://git.io/streak-stats)
+
 
 <!---
 imronkhan/imronkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
