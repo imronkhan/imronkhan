@@ -18,9 +18,12 @@
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imronkhan" alt="imronkhan" /></a> </p>
 
+
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imronkhan&show_icons=true&locale=en&layout=compact" alt="imronkhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imronkhan&show_icons=true&locale=en" alt="imronkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imronkhan&" alt="imronkhan" /></p>
+
+![Snake animation](https://github.com/imronkhan/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
