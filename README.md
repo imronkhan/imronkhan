@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imronkhan&" alt="imronkhan" /></p>
 
-![Snake animation](https://github.com/imronkhan/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/imronkhan/imronkhan/blob/output/github-contribution-grid-snake.svg)
