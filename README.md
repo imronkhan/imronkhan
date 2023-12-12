@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=Hey Everyone!🕹️&animation=fadeIn&color=gradient&height=100"/>
 </p>
 <h1 align="center">Hi, I'm Imron</h1>
 <h3 align="center">Harnessing over two years of corporate expertise in the realms of data science and web development, I currently excel as a dedicated data scientist. My journey is marked by a commitment to unraveling insights and crafting innovative solutions that leave a lasting impact. Join me as I navigate the dynamic intersection of technology and data to create meaningful change.</h3>
