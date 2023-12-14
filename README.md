@@ -31,7 +31,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imronkhan&show_icons=true&locale=en" alt="imronkhan"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imronkhan&" alt="imronkhan" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=imronkhan&theme=chartreuse-dark"></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
