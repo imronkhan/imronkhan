@@ -29,9 +29,9 @@
 <h2 align="center">📈 Github Stats </h2>
 
 <p>
- <img width=400  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imronkhan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="imronkhan" /> &nbsp;   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=imronkhan&show_icons=true&locale=en&theme=chartreuse-dark" alt="imronkhan"/> &nbsp; <br>
+ <img width=400  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imronkhan&show_icons=true&locale=en&layout=compact&hide_border=true&theme=chartreuse-dark" alt="imronkhan" /> &nbsp;   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=imronkhan&show_icons=true&hide_border=true&locale=en&theme=chartreuse-dark" alt="imronkhan"/> &nbsp; <br>
 
- <img width=500 height=200 align="center" src="https://streak-stats.demolab.com/?user=imronkhan&theme=chartreuse-dark">
+ <img width=500 height=200 align="center" src="https://streak-stats.demolab.com/?user=imronkhan&theme=chartreuse-dark&hide_border=true">
 &nbsp;
 </p>
 
