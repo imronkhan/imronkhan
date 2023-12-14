@@ -29,7 +29,7 @@
 <h2 align="center">📈 Github Stats </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imronkhan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="imronkhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imronkhan&show_icons=true&locale=en&theme=chartreuse-dark" alt="imronkhan"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imronkhan&show_icons=true&locale=en&theme=chartreuse-dark" alt="imronkhan"/>&nbsp;</p>
 
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=imronkhan&theme=chartreuse-dark"></p>
