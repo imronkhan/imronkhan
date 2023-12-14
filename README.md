@@ -27,12 +27,15 @@
 
 
 <h2 align="center">📈 Github Stats </h2>
-<p><img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imronkhan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="imronkhan" /></p>
 
-<p><img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=imronkhan&show_icons=true&locale=en&theme=chartreuse-dark" alt="imronkhan"/>&nbsp;</p>
+<p>
+ <img width=400  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imronkhan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="imronkhan" /> &nbsp; 
+ <img width=500 align="center" src="https://streak-stats.demolab.com/?user=imronkhan&theme=chartreuse-dark">
+&nbsp; <img width=400  align="center" src="https://github-readme-stats.vercel.app/api?username=imronkhan&show_icons=true&locale=en&theme=chartreuse-dark" alt="imronkhan"/> &nbsp; 
+</p>
 
 
-<p><img width=400 align="center" src="https://streak-stats.demolab.com/?user=imronkhan&theme=chartreuse-dark"></p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
