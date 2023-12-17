@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imronkhan&label=Profile%20views&color=0e75b6&style=flat" alt="imronkhan" /> </p>
 
 
-<h2 align="center">💬 Socials </h2>
+<h2 align="center">💬 Socials</h2>
 <p align="center">
 <a href="https://linkedin.com/in/imronkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imronkhan" height="30" width="40" /></a>
 <a href="https://instagram.com/imronkhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imronkhan18" height="30" width="40" /></a>
