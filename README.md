@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%World!&fontSize=90)
 
 <h1 align="center">Hi, I'm Imron</h1>
-<h3 align="center">Dedicated Data Engineer with a proven track record of optimizing data pipelines and delivering actionable insights. Seeking to leverage my expertise in data architecture, ETL processes, and big data technologies to drive datadriven innovation and contribute to dynamic projects in a forward-thinking organization.
-.</h3>
+<h3 align="center">Dedicated Data Engineer with a proven track record of optimizing data pipelines and delivering actionable insights. Seeking to leverage my expertise in data architecture, ETL processes, and big data technologies to drive datadriven innovation and contribute to dynamic projects in a forward-thinking organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imronkhan&label=Profile%20views&color=0e75b6&style=flat" alt="imronkhan" /> </p>
 
